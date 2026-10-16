@@ -35,6 +35,7 @@ const hourKey = (ms) => kst(ms).slice(0, 13); // 2026-10-04T21
 const HTML_TEMPLATE = `<!DOCTYPE html>
 <html lang="ko">
 <head>
+<link rel="manifest" href="/rwph/manifest.json">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="refresh" content="60">
