@@ -1,6 +1,6 @@
 {
  "player": "SKL_dakryoja",
- "lastWave": 2645484,
+ "lastWave": 2645499,
  "hours": {
   "2026-10-31T01": {
    "count": 153,
@@ -95,8 +95,8 @@
    "gain": 102
   },
   "2026-11-01T00": {
-   "count": 61,
-   "gain": 355
+   "count": 64,
+   "gain": 370
   }
  },
  "season": {
@@ -203,5 +203,5 @@
    "total": 47
   }
  ],
- "updated": 1793462120420
+ "updated": 1793462182417
 }
